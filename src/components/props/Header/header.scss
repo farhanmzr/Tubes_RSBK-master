@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px 25px;
+    background-color: #0a0b0f;
+    .logo-app {
+        font-weight: 500;
+        margin: 0px;
+        text-transform: uppercase;
+        color: #fffffe;
+    }
+    .link-wrapper {
+        margin-right: 20px;
+        width: 50%;
+        display: inline-flex;
+        justify-content: space-evenly;
+    }
+}

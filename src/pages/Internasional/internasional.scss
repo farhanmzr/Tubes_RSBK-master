@@ -1,0 +1,15 @@
+.internasional-wrapper {
+    padding: 30px 40px;
+    height: 100%;
+    background-color: #fffffe;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: #121629;
+    .content-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        background-color: #fffffe;
+    }
+}
